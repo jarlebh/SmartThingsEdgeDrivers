@@ -67,3 +67,8 @@ zwaveManufacturer:
     manufacturerId: 0x0086
     productId: 0x0026
     deviceProfileName: button-generic
+  - id: Namron/4way
+    deviceLabel: Namron Button
+    manufacturerId: 0x0330
+    productId: 0x0300
+    deviceProfileName: multi-button-4
